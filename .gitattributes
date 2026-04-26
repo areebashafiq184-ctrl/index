@@ -1,2 +1,34 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<html>
+<head>
+    <title>My Favorite Hobby</title>
+   </head>
+<body>
+    <h1>My Favorite Hobby: Photography</h1>
+    <h2>Why I Love Photography</h2>
+    <p>
+        Photography lets me <strong>capture moments</strong> that would otherwise be lost. 
+        It's amazing how a single photo can bring back <em>hundreds of memories</em>. 
+        The best part is that <span class="highlight">anyone can start</span> with just a phone camera.
+    </p>
+    <h2>Getting Started</h2>
+    <p>
+        You don't need expensive gear to begin. Start by learning composition and lighting. 
+        Practice daily and you'll see improvement fast. Photography has taught me patience 
+        and how to see beauty in ordinary things.
+    </p>
+    <img src="images.jpg">
+    
+    <p>
+        Want to learn more? Check out this 
+        <a href="https://www.digital-photography-school.com" target="_blank">photography guide</a>.
+    </p>
+    <h2>Essential Gear for Beginners</h2>
+    <ul class="gear-list">
+        <li>Camera or smartphone</li>
+        <li>Extra batteries</li>
+        <li>Memory cards</li>
+        <li>Editing software</li>
+    </ul>
+
+</body>
+</html>
